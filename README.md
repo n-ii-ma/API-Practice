@@ -1,3 +1,3 @@
-# API-Practice
+# API Practice
 
-# Personal API
+Personal API
