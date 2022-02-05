@@ -4,4 +4,4 @@
 Personal API as practice.
 
 ## Setup
-You need Postman to use the functionality of the API.
+You need Postman to see the functionality of the API.
